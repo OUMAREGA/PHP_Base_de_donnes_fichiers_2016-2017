@@ -1,0 +1,17 @@
+1|Premiere annee Genie Informatique
+2|Premiere annee Genie Juridique
+3|Premiere annee Genie Economique
+4|Deuxieme annee Genie Informatique
+5|Deuxieme annee Genie Juridique
+6|Deuxieme annee Genie Economique
+7|Trosieme annee Genie Informatique
+8|Trosieme annee Genie Juridique
+9|Trosieme annee Genie Economique
+10|Quatrieme annee Genie Informatique
+11|Quatrieme annee Genie Juridique
+12|Quatrieme annee Genie Economique
+13|Cinquieme annee Genie Informatique
+14|Cinquieme annee Genie Juridique
+15|Cinquieme annee Genie Economique
+16|BTS
+17|BACHELOR 2

@@ -1,0 +1,9 @@
+1|Mbengue|Thérése|1998-02-11|F|<img src=image/16701613233_720e3b7902_b.jpg width=100 height=50 />|Première année Génie Juridique
+2|Ndiaye|Fatou|1997-03-01|F|Pas de photo|Première année Génie Informatique
+3|Ndiaye|Abdallah|1992-05-02|M|<img src=image/WIN_20170121_162115.JPG width=100 height=50 />|Quatrième année Génie Informatique
+4|Thiam|Oumou|1990-01-05|F|<img src=image/fon.jpg width=100 height=50 />|Cinquième année Génie Informatique
+5|Diop|Cheikh|1992-07-04|M|<img src=image/WIN_20161208_171837.JPG width=100 height=50 />|Quatrième année Génie Economique
+6|Cissé|Alioune Badara|1998-06-22|M|<img src=image/cadre.jpg width=100 height=50 />|Première année Génie Economique
+7|Diop|Sokhna|1995-04-13|F|Pas de photo|Deuxième année Génie Juridique
+8|Ndiaye|Sokhna|1991-03-22|F|<img src=image/fond.jpg width=100 height=50 />|Cinquième année Génie Economique
+9|Mbodj|Maimouna|1998-02-14|F|Pas de photo|Premiere annee Genie Informatique
